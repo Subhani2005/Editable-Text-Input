@@ -1,0 +1,46 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCPKGNRB_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML heading element with \"Editable Text Input\" as text content",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPKGNRB_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Initially, the page should consist of one HTML input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPKGNRB_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "Initially, the page should consist of one HTML button element with \"Save\" as text content",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPKGNRB_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "When the user entered the text in the input element, then that text should be displayed in the input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPKGNRB_TEST_5",
+      "evaluation_result": "CORRECT",
+      "title": "When the user entered the text in the input element and clicks on the \"Save\" button, then the page should consist of paragraph element with text content as the user entered in the input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPKGNRB_TEST_6",
+      "evaluation_result": "CORRECT",
+      "title": "When the user entered text in the input element and clicks on the \"Save\" button, then the page should consist of the HTML button element with text content as \"Edit\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPKGNRB_TEST_7",
+      "evaluation_result": "CORRECT",
+      "title": "When the user clicks on the \"Edit\" button, then the page should consist of an HTML input element with the text content of the HTML paragraph element as a value",
+      "errorMessages": []
+    }
+  ]
+}
